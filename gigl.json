@@ -2,17 +2,22 @@
     [
         {
             "category": "single_object",
+            "title": "Title 1",
             "image_url": "https://google.com/image1.jpg"
+            "images_url": []
         },
         {
             "category": "array_object",
-            "image_url" : [
+            "title": "Title 2",
+            "images_url" : [
                 "url1", "url2", "url3"
             ]
         },
         {
             "category": "single_object",
-            "image_url": "https://google.com/image2.jpg"
+            "title": "Title 3",
+            "image_url": "https://google.com/image1.jpg"
+            "images_url": []
         }
     ]
 }
