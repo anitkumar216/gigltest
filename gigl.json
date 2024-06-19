@@ -1,0 +1,18 @@
+{
+    [
+        {
+            "category": "single_object",
+            "image_url": "https://google.com/image1.jpg"
+        },
+        {
+            "category": "array_object",
+            "image_url" : [
+                "url1", "url2", "url3"
+            ]
+        },
+        {
+            "category": "single_object",
+            "image_url": "https://google.com/image2.jpg"
+        }
+    ]
+}
