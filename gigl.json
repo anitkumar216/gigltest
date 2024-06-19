@@ -9,6 +9,7 @@
         {
             "category": "array_object",
             "title": "Title 2",
+            "image_url": ""
             "images_url" : [
                 "url1", "url2", "url3"
             ]
