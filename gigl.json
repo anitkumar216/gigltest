@@ -3,7 +3,7 @@
         "category": "single_object",
         "title": "Beautiful Sunset",
         "description": "A breathtaking view of the sunset over the mountains.",
-        "image_url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Sunset",
+        "image_url": "https://picsum.photos/id/237/200/300",
         "images_url": []
     },
     {
@@ -12,16 +12,16 @@
         "description": "Famous landmarks from around the world captured in stunning photographs.",
         "image_url": "",
         "images_url": [
-            "https://via.placeholder.com/150/FF5733/FFFFFF?text=Landmark1",
-            "https://via.placeholder.com/150/33FF57/FFFFFF?text=Landmark2",
-            "https://via.placeholder.com/150/3357FF/FFFFFF?text=Landmark3"
+            "https://picsum.photos/id/10/200/300",
+            "https://picsum.photos/id/20/200/300",
+            "https://picsum.photos/id/30/200/300"
         ]
     },
     {
         "category": "single_object",
         "title": "Ocean Waves",
         "description": "The powerful and serene waves of the ocean under a clear sky.",
-        "image_url": "https://via.placeholder.com/150/33FF57/FFFFFF?text=Ocean",
+        "image_url": "https://picsum.photos/id/50/200/300",
         "images_url": []
     },
     {
@@ -30,17 +30,16 @@
         "description": "Picturesque scenes from adventurous mountain hikes and climbs.",
         "image_url": "",
         "images_url": [
-            "https://via.placeholder.com/150/3357FF/FFFFFF?text=Mountain1",
-            "https://via.placeholder.com/150/57FF33/FFFFFF?text=Mountain2",
-            "https://via.placeholder.com/150/FF5733/FFFFFF?text=Mountain3"
+            "https://picsum.photos/id/70/200/300",
+            "https://picsum.photos/id/80/200/300",
+            "https://picsum.photos/id/90/200/300"
         ]
     },
     {
         "category": "single_object",
         "title": "Sci-Fi Movie Poster",
         "description": "A poster for an upcoming sci-fi blockbuster.",
-        "image_url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Sci-Fi+Poster",
+        "image_url": "https://picsum.photos/id/100/200/300",
         "images_url": []
     }
 ]
-
