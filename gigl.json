@@ -1,22 +1,39 @@
 [
-        {
-            "category": "single_object",
-            "title": "Title 1",
-            "image_url": "https://google.com/image1.jpg"
-            "images_url": []
-        },
-        {
-            "category": "array_object",
-            "title": "Title 2",
-            "image_url": ""
-            "images_url" : [
-                "url1", "url2", "url3"
-            ]
-        },
-        {
-            "category": "single_object",
-            "title": "Title 3",
-            "image_url": "https://google.com/image1.jpg"
-            "images_url": []
-        }
-    ]
+    {
+        "category": "single_object",
+        "title": "Beautiful Sunset",
+        "description": "A breathtaking view of the sunset over the mountains.",
+        "image_url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Sunset",
+        "images_url": []
+    },
+    {
+        "category": "array_object",
+        "title": "City Landmarks",
+        "description": "Famous landmarks from around the world captured in stunning photographs.",
+        "image_url": "",
+        "images_url": [
+            "https://via.placeholder.com/150/FF5733/FFFFFF?text=Landmark1",
+            "https://via.placeholder.com/150/33FF57/FFFFFF?text=Landmark2",
+            "https://via.placeholder.com/150/3357FF/FFFFFF?text=Landmark3"
+        ]
+    },
+    {
+        "category": "single_object",
+        "title": "Ocean Waves",
+        "description": "The powerful and serene waves of the ocean under a clear sky.",
+        "image_url": "https://via.placeholder.com/150/33FF57/FFFFFF?text=Ocean",
+        "images_url": []
+    },
+    {
+        "category": "array_object",
+        "title": "Mountain Adventures",
+        "description": "Picturesque scenes from adventurous mountain hikes and climbs.",
+        "image_url": "",
+        "images_url": [
+            "https://via.placeholder.com/150/3357FF/FFFFFF?text=Mountain1",
+            "https://via.placeholder.com/150/57FF33/FFFFFF?text=Mountain2",
+            "https://via.placeholder.com/150/FF5733/FFFFFF?text=Mountain3"
+        ]
+    }
+]
+
