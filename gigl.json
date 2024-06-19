@@ -34,6 +34,13 @@
             "https://via.placeholder.com/150/57FF33/FFFFFF?text=Mountain2",
             "https://via.placeholder.com/150/FF5733/FFFFFF?text=Mountain3"
         ]
+    },
+    {
+        "category": "single_object",
+        "title": "Sci-Fi Movie Poster",
+        "description": "A poster for an upcoming sci-fi blockbuster.",
+        "image_url": "https://via.placeholder.com/150/FF5733/FFFFFF?text=Sci-Fi+Poster",
+        "images_url": []
     }
 ]
 
