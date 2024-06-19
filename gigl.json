@@ -1,5 +1,4 @@
-{
-    [
+[
         {
             "category": "single_object",
             "title": "Title 1",
@@ -21,4 +20,3 @@
             "images_url": []
         }
     ]
-}
